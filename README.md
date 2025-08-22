@@ -31,6 +31,7 @@ Hello, John Doe! Welcome aboard.
    
 # Task1
 ```python
+#Take input from user
    num1 = float(input("Enter first number: "))
    num2 = float(input("Enter second number: "))
 # Perform operations
